@@ -1,0 +1,14 @@
+# Text Adventure Game - Python Dependencies
+
+# Tkinter is included with Python by default
+# No additional packages required!
+
+# If you're on Linux and Tkinter is not installed, you can install it with:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# Arch: sudo pacman -S tk
+
+# This project requires:
+# Python >= 3.6
+
+# Note: Windows and macOS users have Tkinter pre-installed with Python
